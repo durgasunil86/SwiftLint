@@ -22,6 +22,11 @@
   [Otávio Lima](https://github.com/otaviolima)
   [#1710](https://github.com/realm/SwiftLint/issues/1710)
 
+* Fix using wrong configuration when using `--path` and when there is
+  a configuration in a parent directory.  
+  [Marcelo Fabri](https://github.com/marcelofabri)
+  [#1744](https://github.com/realm/SwiftLint/issues/1744)
+
 ## 0.21.0: Vintage Washboard
 
 ##### Breaking
